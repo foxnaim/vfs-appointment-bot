@@ -1,3 +1,8 @@
+> **foxnaim** · Скрипт автоматической проверки свободных записей в визовых центрах VFS Global
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # VFS Appointment Bot
 
 [![GitHub License](https://img.shields.io/github/license/ranjan-mohanty/vfs-appointment-bot)](https://github.com/ranjan-mohanty/vfs-appointment-bot/blob/main/LICENSE)
